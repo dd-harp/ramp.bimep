@@ -22,4 +22,4 @@ Malaria is managed on monthly and annual cycles, and on multi-year funding and s
 Adaptive malaria control must support these policy cycles through development of protocols and procedures for repeated analysis to ensure policy advice is consistent, that it is of the highest quality, and that it is updated to be responsive to changing needs.
 Through careful analysis of uncertainty and through consultation with program managers, surveillance systems are reviewed to identify key data gaps, and plans are made to fill those gaps and improve future decisions.
 
-## LSM
+## Vector Control 
