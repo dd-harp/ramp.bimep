@@ -1,6 +1,6 @@
 ---
-title: "RAMP - Uganda"
-subtitle: "Robust Analytics and Adaptive Malaria Control for Uganda"
+title: "RAMP - BIMEP"
+subtitle: "Robust Analytics and Adaptive Malaria Control for Bioko Island"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
   html_document:
@@ -13,7 +13,7 @@ output:
 
 Welcome to the github home of RAMP-Uganda. 
 
-Our goal is to develop and implement **Adaptive Malaria Control,** working in collaboration with the **National Malaria Control Division** (NMCD) of **Uganda**'s National Ministry of Health. 
+Our goal is to develop and implement **Adaptive Malaria Control,** working in collaboration with the **Bioko Island Malaria Elimination Program** (BIMEP). 
 
 Adaptive malaria control is a structured, iterative approach to developing policy using a bespoke inferential system called **r**obust **a**nalytics for **m**alaria **p**olicy (RAMP).
 Malaria intelligence is information about malaria needed to support policy developed around stable information systems that involve involve data processing and curation, the transformation of data into information through data analysis, and estimation and imputation to quantify key aspects of malaria transmission, mosquito ecology, human care seeking behaviors, and health systems. 
