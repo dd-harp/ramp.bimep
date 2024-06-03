@@ -1,0 +1,35 @@
+---
+title: "BIMEP Stratification"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    theme: united 
+---
+
+# {.tabset .tabset-fade .tabset-pills} 
+
+## $\odot$
+
+We need to develop a way of sub-dividing the island into contiguous areas that will all be assigned an optimal strategy. The areas can differ in size, but they would be *homogeneous* with respect to malaria transmission and the needs for malaria control operations.  
+
++ Operational
+
+    - The areas have similar prospects for successful spraying with IRS
+    
+    - The areas have similar prospects for successful LSM 
+    
+    - The areas have similar prospects for high coverage with LLINs 
+
++ Transmission & Connectivity
+
+    - The areas have a similar *Pf*PR
+    
+    - The areas have a similar travel prevalence 
+    
+    - The areas have a similar drug taking  
+    
++ Geography
+
+    - The areas are close together
+    
+    - The population densities are *similar*
